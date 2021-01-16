@@ -1,6 +1,6 @@
-# Location Tracke
+# Location Tracker
 
-## Available Scripts
+
 
 To use this project, you can run:
 
